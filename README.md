@@ -1,3 +1,5 @@
 # helloworld
 test project to learn GIT
-my name is Roi Dayan - i work for Amdocs...
+My name is Roi Dayan
+I work in Amdocs
+I live in Sunnyvale CA
